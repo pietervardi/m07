@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71164963642",
+    "project_id": "my-first-time-ab2cb",
+    "storage_bucket": "my-first-time-ab2cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71164963642:android:7810e16ebdcd6460c3be03",
+        "android_client_info": {
+          "package_name": "com.example.minggu_06"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRAcp5Y5pCyuja6uhooTSbG-Vx-Rrpcq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71164963642:android:0af6272b5c0d1e24c3be03",
+        "android_client_info": {
+          "package_name": "com.example.minggu_07"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRAcp5Y5pCyuja6uhooTSbG-Vx-Rrpcq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
